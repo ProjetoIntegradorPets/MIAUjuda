@@ -100,9 +100,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+![Alt text](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/images/logico_miaujuda.png?raw=true "Modelo Lógico")
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
