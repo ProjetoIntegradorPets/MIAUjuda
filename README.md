@@ -1,6 +1,4 @@
-# AINDA ESTÁ SOB EDIÇÃO!!!!!!
-# TRABALHO DE PI:  MIAUjuda
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+# PROJETO INTEGRADOR:  MIAUjuda
 
 # Sumário
 
