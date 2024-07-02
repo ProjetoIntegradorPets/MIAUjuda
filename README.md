@@ -8,13 +8,12 @@ Luísa Coutinho: luisacpsantos@gmail.com <br>
 Raphael Brandão: raphael.brandaopay@gmail.com <br>
 Stéphany Lahass: lahassstephany@gmail.com
 
-### 2.MINIMUNDO<br>
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
-Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
-Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-<br>
+### 2.MINIMUNDO <br>
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
+> O sistema “Miaujuda” é uma aplicação cuja finalidade é facilitar a conexão entre pessoas que desejam adotar animais, colocar cães e gatos para adoção e que queiram auxiliar cachorros e gatos em situação de vulnerabilidade.
+Para realizar o cadastro na plataforma, o USUÁRIO fornece email, nome de usuário e senha. Cada usuário está relacionado a somente um ENDEREÇO, embora este possa se relacionar com nenhum ou vários usuários. Além disso, o usuário é capaz de adicionar formas de CONTATO identificadas pelo seu tipo e descrição, sendo cada contato vinculado a apenas um usuário, é necessário haver ao menos uma forma de contato. 
+O sistema permite que o usuário faça o anúncio de ANIMAL PARA ADOÇÃO e ANIMAL PERDIDO por meio do fornecimento de dados como nome, descrição e sexo. Cada animal possui uma ESPÉCIE que contém uma descrição (permitindo a identificação do pet como gato ou cachorro). Especificamente para os animais cadastrados para a adoção, se registram o peso, tamanho e raça. No registro de animal perdido é necessário fornecer a última data que o animal foi visto. Esse animal também está relacionado a um e somente um endereço (o último lugar em que foi visto). Um usuário pode fazer o anúncio de múltiplos animais, mas cada animal só pertence a um usuário. 
+Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se sua referência. Um usuário está relacionado a apenas uma imagem e a imagem se vincula a nenhum ou um usuário. Já no cadastro de animais podem ser inseridas uma ou várias imagens, essas que estão vinculadas a nenhum ou um animal.
  
  
 ### 3.PMC<br>
