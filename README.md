@@ -1,13 +1,12 @@
 # PROJETO INTEGRADOR:  MIAUjuda
 
-# Sumário
+## Sumário
 
-### 1. COMPONENTES<br>
-Integrantes do grupo<br>
-Eduardo de Oliveira:duduoliveirae11@gmail.com<br>
-Luísa Coutinho:luisacpsantos@gmail.com<br>
-Raphael Brandão:raphael.brandaopay@gmail.com<br>
-Stéphany Lahass:lahassstephany@gmail.com
+### 1. INTEGRANTES DO GRUPO: <br>
+Eduardo de Oliveira: duduoliveirae11@gmail.com <br>
+Luísa Coutinho: luisacpsantos@gmail.com <br>
+Raphael Brandão: raphael.brandaopay@gmail.com <br>
+Stéphany Lahass: lahassstephany@gmail.com
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
