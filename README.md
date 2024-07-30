@@ -22,18 +22,15 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
-#### 3.1. EAP - Estrutura Analítica do Projeto
-a) Incluír imagem da EAP 
-b) Dicinário da EAP 
-
-#### 3.2. Requisitos funcionais e não funcionais
+#### 3.1. Requisitos funcionais e não funcionais
 Incluir informações de: Identificador , Descrição e Prioridade
 Exemplos:<br>
 a) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_funcionais.png" width="350" height="100" /> <br>
 b) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_nao_funcionais.png" width="350" height="190" /> <br>
 
 #### 3.3 Validação da Ideia.
-a) Link do formulário desenvolvido
+a) Link do formulário desenvolvido <br>
+https://forms.gle/UPcCaedRZAM18tfVA <br>
 b) Link para Relatório/Apresentação de resultados obtidos
 
 ### 4.Personas e Histórias de usuário<br>
@@ -46,16 +43,10 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
+Protótipo mobile desenvolvido com a ferramenta quant-ux
+https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmYIflxnotNZbEHd3wqUYi&ln=en
 
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
-
-#### 5.1 PROTÓTIPO DO SISTEMA MOBILE
-
-#### 5.2 PROTÓTIPO DO SISTEMA WEB
 
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
@@ -69,17 +60,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
  ### 6.MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento
-      (se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
 
-![Alt text](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/images/conceitual_miaujuda.png?raw=true "Modelo Conceitual")
+![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/conceitual_miaujuda.png?raw=true "Modelo Conceitual")
       
     
 #### 7 Descrição dos dados 
@@ -95,12 +77,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-![Alt text](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/images/logico_miaujuda.png?raw=true "Modelo Lógico")
+![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.png?raw=true "Modelo Lógico")
 
 ### 10	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
-        
+
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
