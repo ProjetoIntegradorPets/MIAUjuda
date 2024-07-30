@@ -20,7 +20,6 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 ![Exemplo de PMC](https://drive.google.com/file/d/18NEbs2U7s38IVsH-1dQ5GPBmU7pY00qO/view?usp=sharing)
 
 
-
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
 #### 3.1. EAP - Estrutura Analítica do Projeto
