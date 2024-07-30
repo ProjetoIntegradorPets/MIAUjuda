@@ -15,7 +15,7 @@ Para realizar o cadastro na plataforma, o USUÁRIO fornece email, nome de usuár
 O sistema permite que o usuário faça o anúncio de ANIMAL PARA ADOÇÃO e ANIMAL PERDIDO por meio do fornecimento de dados como nome, descrição e sexo. Cada animal possui uma ESPÉCIE que contém uma descrição (permitindo a identificação do pet como gato ou cachorro). Especificamente para os animais cadastrados para a adoção, se registram o peso, tamanho e raça. No registro de animal perdido é necessário fornecer a última data que o animal foi visto. Esse animal também está relacionado a um e somente um endereço (o último lugar em que foi visto). Um usuário pode fazer o anúncio de múltiplos animais, mas cada animal só pertence a um usuário. 
 Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se sua referência. Um usuário está relacionado a apenas uma imagem e a imagem se vincula a nenhum ou um usuário. Já no cadastro de animais podem ser inseridas uma ou várias imagens, essas que estão vinculadas a nenhum ou um animal.
 
-![Modelo Cadastro Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Cadastro.jfif?raw=true "Modelo Cadastro")
+
 
  
  
@@ -63,60 +63,48 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 Visualização interativa:<br>
 https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmYIflxnotNZbEHd3wqUYi&ln=en
       
-### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-        a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
-        (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
-        b) Criar um novo banco de dados para testar a restauracao 
-        (em caso de falha na restauração o grupo não pontuará neste quesito)
-        c) formato .SQL
+#### Implementação<br>
 
-#### 12 PRINCIPAIS CONSULTAS DO SISTEMA 
- Inserir as principais consultas (relativas aos 5 principais relatórios) definidas previamente no iten 3.1 deste template.
- <br>
-  a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
- <br>
-  b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
+#### Login<br>
 
- ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 13.1	Integração com Linguagem de programação; <br>
- #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
- #### solicitações feitas pelo professor. <br>
- 
- ### 14 Slides e Apresentação em vídeo. <br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 14.1 Slides; <br>
- #### 14.2 Apresentação em vídeo <br>
+![Modelo Login Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Login.jfif?raw=true "Modelo Login")
 
-    
-##### About Formatting
-    https://help.github.com/articles/about-writing-and-formatting-on-github/
-    
-##### Basic Formatting in Git
-    
-    https://help.github.com/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests
-   
-    
-##### Working with advanced formatting
-    https://help.github.com/articles/working-with-advanced-formatting/
+#### Cadastro<br>
 
-#### Mastering Markdown
-    https://guides.github.com/features/mastering-markdown/
+![Modelo Cadastro Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Cadastro.jfif?raw=true "Modelo Cadastro")
 
-### OBSERVAÇÕES IMPORTANTES
+####Início<br>
 
-#### Todos os arquivos que fazem parte do projeto (Imagens, pdfs, arquivos fonte, etc..), devem estar presentes no GIT. Os arquivos do projeto vigente não devem ser armazenados em quaisquer outras plataformas.
-1. Caso existam arquivos com conteúdos sigilosos, comunicar o professor que definirá em conjunto com o grupo a melhor forma de armazenamento do arquivo.
+![Modelo Início Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Início.jfif?raw=true "Modelo Início")
 
-#### Todos os grupos deverão fazer Fork deste repositório e dar permissões administrativas ao usuário deste GIT, para acompanhamento do trabalho.
+#### Cadastro para adoção<br>
 
-#### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
+![Modelo Adoção Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Adoção.jfif?raw=true "Modelo Adoção")
 
+#### Cadastro para animal perdido<br>
 
-Link para BrModelo:<br>
-http://sis4.com/brModelo/brModelo/download.html
-<br>
+![Modelo Perdido Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Perdido.jfif?raw=true "Modelo Perdido")
 
+#### Perfil Pet<br>
 
-Link para curso de GIT<br>
-![https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
+![Modelo PP Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/PP.jfif?raw=true "Modelo PP")
+
+#### Perfil Pet Perdido<br>
+
+![Modelo PPP Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/PPP.jfif?raw=true "Modelo PPP")
+
+#### Perfil Usuário<br>
+
+![Modelo PU Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/PU.jfif?raw=true "Modelo PU")
+
+#### Tela de Ajuda<br>
+
+![Modelo ajuda Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/ajuda.jfif?raw=true "Modelo ajuda")
+
+#### Blog<br>
+
+![Modelo blog Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/blog.jfif?raw=true "Modelo blog")
+
+#### Artigo de Blog<br>
+
+![Modelo Artigo Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Artigo.jfif?raw=true "Modelo Artigo")
