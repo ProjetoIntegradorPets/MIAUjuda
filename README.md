@@ -77,7 +77,7 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmY
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.png?raw=true "Modelo Lógico")
+![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.jpeg?raw=true "Modelo Lógico")
 
 ### 10	MODELO FÍSICO<br>
 
