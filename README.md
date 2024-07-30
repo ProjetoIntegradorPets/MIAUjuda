@@ -32,11 +32,14 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 
 
 #### Casos de Uso
-a) Link do formulário desenvolvido <br>
-https://forms.gle/UPcCaedRZAM18tfVA <br>
-b) Link para Relatório/Apresentação de resultados obtidos
+a) Link do arquivo em si <br>
+[https://forms.gle/UPcCaedRZAM18tfVA](https://lucid.app/lucidchart/afd5c852-807a-43d4-80e5-2faa42813fe7/edit?viewport_loc=-5228%2C-6267%2C18676%2C20056%2C0_0&invitationId=inv_e817aecf-8088-4f74-bb4f-2f18ff5d844f) <br>
+b) Link para o pdf para faciliar a visualização:<br>
+https://lucid.app/lucidchart/afd5c852-807a-43d4-80e5-2faa42813fe7/edit?viewport_loc=-5228%2C-6267%2C18676%2C20056%2C0_0&invitationId=inv_e817aecf-8088-4f74-bb4f-2f18ff5d844f
 
-### 4.Personas e Histórias de usuário<br>
+### Diagramas de Atividades
+
+r>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
