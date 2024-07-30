@@ -39,7 +39,7 @@ https://lucid.app/lucidchart/afd5c852-807a-43d4-80e5-2faa42813fe7/edit?viewport_
 
 ### Diagramas de Atividades
 
-![Modelo atv Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/MIAUJUDA.-.Fluxo.de.processos.BPMN.jpeg?raw=true "Modelo atv")
+![Modelo atv Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/atv.jpeg?raw=true "Modelo atv")
 
 
 MIAUJUDA.-.Fluxo.de.processos.BPMN.pdf
