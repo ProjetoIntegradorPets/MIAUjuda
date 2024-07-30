@@ -10,25 +10,28 @@ Stéphany Lahass: lahassstephany@gmail.com
 
 ### 2.MINIMUNDO <br>
 
-> O sistema “Miaujuda” é uma aplicação cuja finalidade é facilitar a conexão entre pessoas que desejam adotar animais, colocar cães e gatos para adoção e que queiram auxiliar cachorros e gatos em situação de vulnerabilidade.
+O sistema “Miaujuda” é uma aplicação cuja finalidade é facilitar a conexão entre pessoas que desejam adotar animais, colocar cães e gatos para adoção e que queiram auxiliar cachorros e gatos em situação de vulnerabilidade.
 Para realizar o cadastro na plataforma, o USUÁRIO fornece email, nome de usuário e senha. Cada usuário está relacionado a somente um ENDEREÇO, embora este possa se relacionar com nenhum ou vários usuários. Além disso, o usuário é capaz de adicionar formas de CONTATO identificadas pelo seu tipo e descrição, sendo cada contato vinculado a apenas um usuário, é necessário haver ao menos uma forma de contato. 
 O sistema permite que o usuário faça o anúncio de ANIMAL PARA ADOÇÃO e ANIMAL PERDIDO por meio do fornecimento de dados como nome, descrição e sexo. Cada animal possui uma ESPÉCIE que contém uma descrição (permitindo a identificação do pet como gato ou cachorro). Especificamente para os animais cadastrados para a adoção, se registram o peso, tamanho e raça. No registro de animal perdido é necessário fornecer a última data que o animal foi visto. Esse animal também está relacionado a um e somente um endereço (o último lugar em que foi visto). Um usuário pode fazer o anúncio de múltiplos animais, mas cada animal só pertence a um usuário. 
 Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se sua referência. Um usuário está relacionado a apenas uma imagem e a imagem se vincula a nenhum ou um usuário. Já no cadastro de animais podem ser inseridas uma ou várias imagens, essas que estão vinculadas a nenhum ou um animal.
+
  
  
-### 3.PMC<br>
-![Exemplo de PMC](https://drive.google.com/file/d/18NEbs2U7s38IVsH-1dQ5GPBmU7pY00qO/view?usp=sharing)
+### Histórias de Usuário
+
+* Como usuário ou visitante, eu quero visualizar animais para adoção e animais perdidos.<br>
+* Como usuário ou visitante, eu quero visualizar artigos do blog.<br>
+* Como usuário ou visitante, eu visualizar contato com ONGs de animais.<br>
+* Como usuário, eu quero cadastrar animais perdidos.<br>
+* Como usuário, eu quero cadastrar animais para adoção.<br>
+* Como usuário, eu quero gerenciar as informações do perfil de usuário.<br>
+* Como usuário, eu quero filtrar minha busca por animais.<br>
+* Como usuário,eu quero poder entrar em contato com doadores.<br>
+* Como administrador, eu quero gerenciar as informações do blog.<br>
+* Como administrador, eu quero fornecer um DashBoard.<br>
 
 
-a) inclusão do PMC desenvolvido pelo grupo <br>
-
-#### 3.1. Requisitos funcionais e não funcionais
-Incluir informações de: Identificador , Descrição e Prioridade
-Exemplos:<br>
-a) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_funcionais.png" width="350" height="100" /> <br>
-b) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_nao_funcionais.png" width="350" height="190" /> <br>
-
-#### 3.3 Validação da Ideia.
+#### Casos de Uso
 a) Link do formulário desenvolvido <br>
 https://forms.gle/UPcCaedRZAM18tfVA <br>
 b) Link para Relatório/Apresentação de resultados obtidos
