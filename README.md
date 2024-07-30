@@ -45,41 +45,14 @@ Caso_de_uso
 
 
 
-### 5. PROTÓTIPOS DO SISTEMA<br>
-
-Protótipo mobile desenvolvido com a ferramenta quant-ux
-https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmYIflxnotNZbEHd3wqUYi&ln=en
+### 5. Modelo de Dados<br>
 
 
-#### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
-    
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
- 
- ### 6.MODELO CONCEITUAL<br>
-
+#### MODELO CONCEITUAL<br>
 ![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/conceitual_miaujuda.png?raw=true "Modelo Conceitual")
       
-    
-#### 7 Descrição dos dados 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
-### 8	RASTREABILIDADE DOS ARTEFATOS<br>
-        a) Historia de usuários vs protótipo (Histórias de Usuário e em qual tela do protótipo aquela HU está sendo realizada).
-        b) Protótipo vs Modelo conceitual (Histórias de Usuário e em quais tabelas aquele dado está sendo registrado).
-        (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
-
-### 9	MODELO LÓGICO<br>
+#### MODELO LÓGICO<br>
 ![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.jpeg?raw=true "Modelo Lógico")
 
 ### 10	MODELO FÍSICO<br>
