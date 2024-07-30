@@ -39,7 +39,9 @@ https://lucid.app/lucidchart/afd5c852-807a-43d4-80e5-2faa42813fe7/edit?viewport_
 
 ### Diagramas de Atividades
 
-https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/1d96e5782d04dddbbcbab34d7c0438612884f448/docs/img/MIAUJUDA%20-%20Fluxo%20de%20processos%20BPMN.pdf
+[MIAUJUDA - Fluxo de processos BPMN.pdf](https://github.com/user-attachments/files/16433846/MIAUJUDA.-.Fluxo.de.processos.BPMN.pdf)
+
+
 
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
