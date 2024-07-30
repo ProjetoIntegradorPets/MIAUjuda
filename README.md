@@ -15,6 +15,8 @@ Para realizar o cadastro na plataforma, o USUÁRIO fornece email, nome de usuár
 O sistema permite que o usuário faça o anúncio de ANIMAL PARA ADOÇÃO e ANIMAL PERDIDO por meio do fornecimento de dados como nome, descrição e sexo. Cada animal possui uma ESPÉCIE que contém uma descrição (permitindo a identificação do pet como gato ou cachorro). Especificamente para os animais cadastrados para a adoção, se registram o peso, tamanho e raça. No registro de animal perdido é necessário fornecer a última data que o animal foi visto. Esse animal também está relacionado a um e somente um endereço (o último lugar em que foi visto). Um usuário pode fazer o anúncio de múltiplos animais, mas cada animal só pertence a um usuário. 
 Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se sua referência. Um usuário está relacionado a apenas uma imagem e a imagem se vincula a nenhum ou um usuário. Já no cadastro de animais podem ser inseridas uma ou várias imagens, essas que estão vinculadas a nenhum ou um animal.
 
+![Modelo Cadastro Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Cadastro.jfif?raw=true "Modelo Cadastro")
+
  
  
 ### Histórias de Usuário
