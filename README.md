@@ -51,12 +51,16 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 ![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/conceitual_miaujuda.png?raw=true "Modelo Conceitual")
       
 
-#### Lógico LÓGICO<br>
+#### Lógico<br>
 ![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.jpeg?raw=true "Modelo Lógico")
 
-### 10	MODELO FÍSICO<br>
+### Prototipação de Telas<br>
 
-       
+ https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmYIflxnotNZbEHd3wqUYi&ln=en
+
+Visualização interativa:<br>
+https://app.quant-ux.com/#/test.html?h=a2aa10aTPWSSRCa0Mq4fnVtEvEUgylhMKaJSBnmmYIflxnotNZbEHd3wqUYi&ln=en
+      
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
