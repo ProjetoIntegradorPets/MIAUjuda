@@ -39,13 +39,7 @@ https://lucid.app/lucidchart/afd5c852-807a-43d4-80e5-2faa42813fe7/edit?viewport_
 
 ### Diagramas de Atividades
 
-r>
-<img src="docs/img/MIAUJUDA - Fluxo de processos BPMN.pdf /> <br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
-<br>
+https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/1d96e5782d04dddbbcbab34d7c0438612884f448/docs/img/MIAUJUDA%20-%20Fluxo%20de%20processos%20BPMN.pdf
 
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
