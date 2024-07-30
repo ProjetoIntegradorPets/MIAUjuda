@@ -37,7 +37,6 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 ![Modelo uso Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/Caso_de_uso.png?raw=true "Modelo uso")
 
 
-Caso_de_uso
 ### Diagramas de Atividades
 
 ![Modelo atv Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/atv.png?raw=true "Modelo atv")
@@ -48,11 +47,11 @@ Caso_de_uso
 ### 5. Modelo de Dados<br>
 
 
-#### MODELO CONCEITUAL<br>
+#### Conceitual<br>
 ![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/conceitual_miaujuda.png?raw=true "Modelo Conceitual")
       
 
-#### MODELO LÓGICO<br>
+#### Lógico LÓGICO<br>
 ![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/logico_miaujuda.jpeg?raw=true "Modelo Lógico")
 
 ### 10	MODELO FÍSICO<br>
