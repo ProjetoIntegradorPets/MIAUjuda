@@ -50,11 +50,11 @@ Em todos os cadastros também é possível fornecer IMAGEM, em que registra-se s
 
 
 #### Conceitual<br>
-![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/modelo_conceitual_3110.png?raw=true "Modelo Conceitual")
+![Modelo Conceitual Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/miaujuda_conceitual_3110.png?raw=true "Modelo Conceitual")
       
 
 #### Lógico<br>
-![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/modelo_logico_3110.png?raw=true "Modelo Lógico")
+![Modelo Lógico Miaujuda](https://github.com/ProjetoIntegradorPets/MIAUjuda/blob/main/docs/img/miaujuda_logico_3110.png?raw=true "Modelo Lógico")
 
 ### Prototipação de Telas<br>
 
